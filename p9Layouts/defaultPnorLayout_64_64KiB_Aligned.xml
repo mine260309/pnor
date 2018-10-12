@@ -70,7 +70,7 @@ Layout Description
     <metadata>
         <imageSize>0x4000000</imageSize>
         <chipSize>0x4000000</chipSize>
-        <blockSize>0x10000</blockSize>
+        <blockSize>0x1000</blockSize>
         <tocSize>0x10000</tocSize>
         <arrangement>A-D-B</arrangement>
         <side>
